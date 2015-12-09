@@ -10,7 +10,6 @@ As Arduino's memory is limited, this implementation has the following limitation
 
 - Maximum sampling frequency of 64.
 - It does not use the peak detection function.
-- It does not use dynamic memory allocation.
 
 ## License
 Distributed under the GNU GPL license. See *LICENSE*.
