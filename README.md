@@ -12,7 +12,7 @@ As Arduino's memory is limited, this implementation has the following limitation
 - It does not use the peak detection function.
 
 ## License
-Distributed under the GNU GPL license. See *LICENSE*.
+Distributed under the MIT license. See *LICENSE*.
 
 ## Version History
 - 1.0 Initial version (October 2013).
